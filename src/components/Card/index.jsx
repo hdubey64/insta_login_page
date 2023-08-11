@@ -1,10 +1,16 @@
-import React from "react";
+import { Logo } from "../Icons";
+import "./Card.css";
 
 const Card = (props) => {
    return (
       <>
          <section>
-            <div className="main"></div>
+            <main>
+               <div className="logo">
+                  <Logo />
+               </div>
+               <div className="form"></div>
+            </main>
          </section>
       </>
    );
