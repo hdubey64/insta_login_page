@@ -1,4 +1,4 @@
-#Instagram Login/Signup Form - React Component
+# Instagram Login/Signup Form - React Component
 This is a React component that implements a basic Instagram-inspired login and signup form. The component displays different input fields and buttons based on whether the user is in login or signup mode.
 
 ##Table of Contents
