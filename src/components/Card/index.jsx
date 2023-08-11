@@ -14,7 +14,7 @@ const Card = (props) => {
          <section>
             <main>
                <div className="userForm">
-                  <img src={Instagram_logo} alt="" />
+                  <img src={Instagram_logo} alt="" width={250} />
                   <input
                      hidden={login}
                      type="text"

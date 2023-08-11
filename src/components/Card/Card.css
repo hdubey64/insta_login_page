@@ -7,7 +7,7 @@ section {
 main {
    border: 1px Solid gray;
    max-width: fit-content;
-   padding: 10px;
+   padding: 40px;
 }
 
 .userForm {
@@ -18,7 +18,7 @@ main {
 input {
    border: 1px Solid gray;
    border-radius: 10px;
-   width: 95%;
+   width: 350px;
    padding: 8px;
 }
 button {
