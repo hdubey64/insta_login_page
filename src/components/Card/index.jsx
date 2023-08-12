@@ -3,7 +3,6 @@ import Instagram_logo from "../../assets/icons/Instagram_logo.png";
 import "./Card.css";
 import Login from "../Login";
 import Signup from "../Signin";
-import Home from "../Home";
 
 const Card = (props) => {
    const [haveAccount, setHaveAccount] = useState(true);
