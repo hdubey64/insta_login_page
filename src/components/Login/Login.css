@@ -1,0 +1,5 @@
+.userForm {
+   display: grid;
+   place-items: center center;
+   gap: 10px;
+}
